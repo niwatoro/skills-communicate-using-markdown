@@ -6,3 +6,11 @@
 ###### ITS A HEADER BUT TOO SMALLER
 
 ![Niwatoro logo](https://niwatoro.com/images/logo.png)
+
+```cpp
+#include <iostream>
+
+int main() {
+  std::cout << "Hello, world!" << std::endl;
+}
+```
