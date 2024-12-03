@@ -14,3 +14,8 @@ int main() {
   std::cout << "Hello, world!" << std::endl;
 }
 ```
+
+# My life plan:
+- [x] Born
+- [ ] Graduate
+- [ ] Become great
